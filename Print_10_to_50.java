@@ -4,7 +4,7 @@ public class Main {
        int num = 10;
        while(num<51)
        {
-           System.out.println(num++);
+           System.out.println(num++); //printing the number
        }
     }
 }
